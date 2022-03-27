@@ -4,4 +4,4 @@
 
 课程链接 https://kaiwu.lagou.com/course/courseInfo.htm?courseId=88#/content
 
-<img src="./readme.assets/601648377704_.pic.jpg" alt="601648377704_.pic" style="zoom:50%;" />
+<img src="./readme.assets/601648377704_.pic.jpg" alt="601648377704_.pic" style="zoom:30%;" />
